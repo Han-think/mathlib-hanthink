@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mathlib-hanthink"
-version = "0.2.0"
+version = "0.3.0"
 authors = [{ name = "Han-think" }]
 description = "A class-based Python utility package for arithmetic, geometric sequences, and trigonometry"
 readme = "README.md"
